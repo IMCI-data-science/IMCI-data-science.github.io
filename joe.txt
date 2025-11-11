@@ -1,22 +1,20 @@
 <span id="a">joe@portfolio</span>:<span id="b">~</span><span id="c">$</span> cd Portfolio/<!-- laglaglaglaglaglag -->About_Me
 <span id="a">joe@portfolio</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->joe.txt<br/><br/>
-My favorite quote, "<span id="k">Data is the new oil, but analytics is the combustion engine</span>". <!-- sjkfhskjf -->
+You've reached Joe's homepage
+<!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag -->
+My perfect date? "<span id="k">yy mm dd</span>". <!-- sjkfhskjf -->
+<!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag -->
 
-Hey There! Welcome to my terminal-based portfolio.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I'm Joe, a Supply Chain & Data Analytics Professional based in Singapore.</p>
-<p>I specialize in bridging data and business strategy, optimizing supply chains through analytics and automation.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p>My core competencies include supply chain management, data analytics, and business intelligence. I work with tools like Python, SQL, R, Tableau, and Power BI to turn complex data into actionable insights.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>I'm passionate about using technology to solve real-world problems and create positive social impact. <br><br><br>Check out my recent projects: <a href="projects.html">Projects Portfolio</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p>Some of my key projects include:<br>
-- Supply Chain Dashboard (Python, React, PostgreSQL)<br>
-- Demand Forecasting Model (Machine Learning, SARIMA, LSTM)<br>
-- Vendor Performance Analyzer (SQL, Power BI)<br>
-- Data Pipeline Automation (Apache Airflow, Docker, AWS)</p>
 
-<p>You can find me on these platforms: <br> 
-<a href="https://github.com/joeknowsdata">GitHub</a> <br> 
-<a href="https://linkedin.com/in/yourprofile">LinkedIn</a> <br>
-<a href="about.html">More About Me</a></p>
+<p>Click here for: <br> 
+<a href="cv.html">My CV</a> <br> 
+<a href="projects.html">My Project Portfolio</a> <br>
+<a href="blog.html">My Blog</a> <br>
+<a href="globe.html">Where's Joe?</a> <br> 
 
-Feel free to reach out<!-- slightdelayhere-->. I'm always open to discussing new opportunities, collaborations, or just chatting about data and supply chain optimization<!-- longlonglongcomment -->. Contact me at <a href="mailto:your.email@example.com">your.email@example.com</a>.
+
+Lately, I've been working on humanitarian data science projects, teaching snowboarding, and trying to find a PhD position.
+<br> Feel free to reach out, i'd love to hear from you<!-- slightdelayhere-->. <br>
+<!-- longlonglongcomment -->Email me at [ <a href="mailto:e0641557@u.nus.edu">e0641557@u.nus.edu</a> ].
 
 <p>Cheers!<br>- Joe</p>
